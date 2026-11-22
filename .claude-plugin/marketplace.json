@@ -1,0 +1,11 @@
+{
+  "name": "christian-plugins",
+  "owner": { "name": "Christian Bitar" },
+  "plugins": [
+    {
+      "name": "anti-slop",
+      "source": "./plugins/anti-slop",
+      "description": "Remove AI-writing tells from any text. Adapted from kjmagnan1s/anti-slop (MIT)."
+    }
+  ]
+}

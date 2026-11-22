@@ -1,0 +1,7 @@
+{
+  "name": "anti-slop",
+  "version": "0.2.3",
+  "description": "Remove AI-writing tells from any text. Chat edition adapted from kjmagnan1s/anti-slop (MIT).",
+  "author": { "name": "kjmagnan1s (adapted by Christian Bitar)" },
+  "license": "MIT"
+}
